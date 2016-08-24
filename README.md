@@ -2,6 +2,8 @@
 
 Application allows to create new div figure, define its size, color and radius and save it in the gallary. It's also possible to remove elements from the gallery and make a search of elements. Application is enhanced in has some sort of animations. 
 
+(film div_gallery.mov in full quality is to be found inside div_gallery folder)
+
 
 
 Used technologies:
